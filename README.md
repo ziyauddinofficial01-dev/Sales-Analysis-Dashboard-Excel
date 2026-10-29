@@ -1,8 +1,8 @@
-\# Sales Analysis Dashboard using Microsoft Excel
+# Sales Analysis Dashboard using Microsoft Excel
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,75 +10,75 @@ This project analyzes fictional sales data using Microsoft Excel to identify sal
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
-\- Analyze overall sales performance.
+- Analyze overall sales performance.
 
-\- Compare sales across categories, products, and regions.
+- Compare sales across categories, products, and regions.
 
-\- Identify monthly sales trends.
+- Identify monthly sales trends.
 
-\- Present key metrics through an interactive dashboard.
+- Present key metrics through an interactive dashboard.
 
-\- Enable users to explore results using slicers.
-
-
-
-\## Tools and Techniques
+- Enable users to explore results using slicers.
 
 
 
-\- Microsoft Excel
-
-\- Excel Tables
-
-\- PivotTables and PivotCharts
-
-\- Excel formulas, including GETPIVOTDATA and SUBTOTAL
-
-\- Slicers
-
-\- Data summarization and trend analysis
+## Tools and Techniques
 
 
 
-\## Dashboard Features
+- Microsoft Excel
+
+- Excel Tables
+
+- PivotTables and PivotCharts
+
+- Excel formulas, including GETPIVOTDATA and SUBTOTAL
+
+- Slicers
+
+- Data summarization and trend analysis
 
 
 
-\- KPI cards for Total Sales, Total Quantity, Total Orders, Average Order Value, and Average Monthly Sales.
-
-\- Monthly Sales Trend chart.
-
-\- Category-wise Sales Performance chart.
-
-\- Region-wise Sales Performance chart.
-
-\- Top 5 Products by Sales chart.
-
-\- Interactive slicers for Region, Category, and Month.
+## Dashboard Features
 
 
 
-\## Key Business Insights
+- KPI cards for Total Sales, Total Quantity, Total Orders, Average Order Value, and Average Monthly Sales.
+
+- Monthly Sales Trend chart.
+
+- Category-wise Sales Performance chart.
+
+- Region-wise Sales Performance chart.
+
+- Top 5 Products by Sales chart.
+
+- Interactive slicers for Region, Category, and Month.
 
 
 
-\- Electronics was the highest-selling category, generating ₹15,98,865 in sales.
-
-\- Monitor 24-inch was the top-selling product by sales, generating ₹9,11,925.
-
-\- September recorded the highest monthly sales at ₹4,09,996.50.
-
-\- November recorded the lowest monthly sales at ₹1,95,823.
-
-\- The North region recorded the highest sales among the four regions at ₹9,42,511.
+## Key Business Insights
 
 
 
-\## Dataset Description
+- Electronics was the highest-selling category, generating ₹15,98,865 in sales.
+
+- Monitor 24-inch was the top-selling product by sales, generating ₹9,11,925.
+
+- September recorded the highest monthly sales at ₹4,09,996.50.
+
+- November recorded the lowest monthly sales at ₹1,95,823.
+
+- The North region recorded the highest sales among the four regions at ₹9,42,511.
+
+
+
+## Dataset Description
 
 
 
@@ -90,25 +90,25 @@ Key columns include:
 
 
 
-\- Order ID
+- Order ID
 
-\- Order Date
+- Order Date
 
-\- Customer ID
+- Customer ID
 
-\- Product
+- Product
 
-\- Category
+- Category
 
-\- Region
+- Region
 
-\- City
+- City
 
-\- Quantity
+- Quantity
 
-\- Unit Price (INR)
+- Unit Price (INR)
 
-\- Sales Amount (INR)
+- Sales Amount (INR)
 
 
 
@@ -116,23 +116,23 @@ Sales Amount is calculated by multiplying Quantity by Unit Price.
 
 
 
-\## How to Use the Workbook
+## How to Use the Workbook
 
 
 
-1\. Download the Excel workbook.
+1. Download the Excel workbook.
 
-2\. Open it in Microsoft Excel.
+2. Open it in Microsoft Excel.
 
-3\. Navigate to the Sales Dashboard worksheet.
+3. Navigate to the Sales Dashboard worksheet.
 
-4\. Use the Region, Category, and Month slicers to explore the results.
+4. Use the Region, Category, and Month slicers to explore the results.
 
-5\. Review the analysis worksheets for supporting summaries.
+5. Review the analysis worksheets for supporting summaries.
 
 
 
-\## Project Disclaimer
+## Project Disclaimer
 
 
 
@@ -140,13 +140,13 @@ This is a learning and portfolio project built using fictional practice data. Th
 
 
 
-\## Author
+## Author
 
 
 
-\*\*Md Ziyauddin\*\*
+**Md Ziyauddin**
 
 
 
-GitHub: \[ziyauddinofficial01-dev](https://github.com/ziyauddinofficial01-dev)
+GitHub: [ziyauddinofficial01-dev](https://github.com/ziyauddinofficial01-dev)
 
