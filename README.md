@@ -115,6 +115,10 @@ Key columns include:
 Sales Amount is calculated by multiplying Quantity by Unit Price.
 
 
+## Dashboard Preview
+![Sales Analysis Dashboard](Dashboard_Screenshot.png)
+
+
 
 ## How to Use the Workbook
 
