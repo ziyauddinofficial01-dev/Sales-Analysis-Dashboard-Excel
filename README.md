@@ -4,11 +4,15 @@
 
 \## Project Overview
 
+
+
 This project analyzes fictional sales data using Microsoft Excel to identify sales trends and performance across products, categories, regions, and months. An interactive dashboard presents key performance indicators (KPIs) and visual insights to support data-driven decision-making.
 
 
 
 \## Project Objectives
+
+
 
 \- Analyze overall sales performance.
 
@@ -23,6 +27,8 @@ This project analyzes fictional sales data using Microsoft Excel to identify sal
 
 
 \## Tools and Techniques
+
+
 
 \- Microsoft Excel
 
@@ -40,6 +46,8 @@ This project analyzes fictional sales data using Microsoft Excel to identify sal
 
 \## Dashboard Features
 
+
+
 \- KPI cards for Total Sales, Total Quantity, Total Orders, Average Order Value, and Average Monthly Sales.
 
 \- Monthly Sales Trend chart.
@@ -56,6 +64,8 @@ This project analyzes fictional sales data using Microsoft Excel to identify sal
 
 \## Key Business Insights
 
+
+
 \- Electronics was the highest-selling category, generating ₹15,98,865 in sales.
 
 \- Monitor 24-inch was the top-selling product by sales, generating ₹9,11,925.
@@ -70,11 +80,15 @@ This project analyzes fictional sales data using Microsoft Excel to identify sal
 
 \## Dataset Description
 
+
+
 The workbook contains 400 sales records covering January to December 2025.
 
 
 
 Key columns include:
+
+
 
 \- Order ID
 
@@ -98,11 +112,13 @@ Key columns include:
 
 
 
-Sales Amount is calculated using Quantity multiplied by Unit Price.
+Sales Amount is calculated by multiplying Quantity by Unit Price.
 
 
 
 \## How to Use the Workbook
+
+
 
 1\. Download the Excel workbook.
 
@@ -118,15 +134,19 @@ Sales Amount is calculated using Quantity multiplied by Unit Price.
 
 \## Project Disclaimer
 
+
+
 This is a learning and portfolio project built using fictional practice data. The dataset does not represent actual company transactions or business experience.
 
 
 
 \## Author
 
-Md Ziyauddin
+
+
+\*\*Md Ziyauddin\*\*
 
 
 
-GitHub: https://github.com/ziyauddinofficial01-dev
+GitHub: \[ziyauddinofficial01-dev](https://github.com/ziyauddinofficial01-dev)
 
